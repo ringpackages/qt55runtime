@@ -7,7 +7,7 @@ func main
 	OSDeleteFolder("audio")
 	OSDeleteFolder("bearer")
 	OSDeleteFolder("iconengines")
-	OSDeleteFolder("imageformat")
+	OSDeleteFolder("imageformats")
 	OSDeleteFolder("mediaservice")
 	OSDeleteFolder("platforms")
 	OSDeleteFolder("playlistformats")
