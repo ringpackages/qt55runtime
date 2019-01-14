@@ -39,7 +39,7 @@ aPackageInfo = [
 
 	],
 	:windowsringfolderfiles = 	[
-		"bin/bin.zip",
+		"bin/bin.zip"
 	],
 	:linuxringfolderfiles = 	[
 
