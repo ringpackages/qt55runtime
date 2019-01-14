@@ -15,7 +15,7 @@ aPackageInfo = [
 	],
 	:libs = 	[
 		[
-			:name = "codegen",
+			:name = "ringzip",
 			:version = "1.0",
 			:providerusername = ""
 		]
